@@ -1,15 +1,20 @@
 {
   "name": "Blog",
-  "description": "Blog",
+  "description": "Using Gatsby for a basic site/blog, etc",
   "version": "1.0.0",
   "author": "Sam Pritchard",
   "dependencies": {
-    "gatsby": "^1.9.145",
+    "gatsby": "^1.9.149",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typography": "^1.7.10",
+    "react-fontawesome": "^1.6.1",
     "react-native-elements": "^0.18.5",
-    "typography-theme-fairy-gates": "^0.15.11"
+    "react-sticky": "^6.0.1",
+    "typography-theme-bootstrap": "^0.16.7",
+    "typography-theme-fairy-gates": "^0.15.11",
+    "typography-theme-lawton": "^0.15.10",
+    "typography-theme-wikipedia": "^0.15.11"
   },
   "keywords": [
     "gatsby"
