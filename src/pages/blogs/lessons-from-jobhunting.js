@@ -27,6 +27,10 @@ const Post4 = () => (
       - You are allowed to give up. If something doesn't feel right, it usually isn't/
       - Understand the company SO much before you accept the offer. But sometimes this is impossible
         don't beat yourself up if you leave.
+      - make LOADS mistakes! Even joining the wrong company, its just practice for next time.
+      - keep in contact with everyone and always be nice.
+
+      
 
     </p>
   </div>
