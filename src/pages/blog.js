@@ -10,8 +10,8 @@ const BlogPage = () => (
     <h4><a href="blogs/gambling">Please gamble responsibly, but not too responsibly.</a></h4>
     <h4><a href="blogs/lessons-from-jobhunting">Lessons from job hunting.</a></h4>
     <h4><a href="blogs/moaning">Why do people moan ALL the time?</a></h4>
-    <h4><a href="blogs/new-year-resolutions"></a></h4>
-    <h4><a href="blogs/new-year-resolutions">Coming Soon.</a></h4>
+    <h4><a href="blogs/FAQs-diet">FAQs on diet.</a></h4>
+    <h4><a href="blogs/expensive-vegan">5 vegan meals.</a></h4>
     <h4><a href="blogs/new-year-resolutions">Coming Soon.</a></h4>
     <h4><a href="blogs/new-year-resolutions">Coming Soon.</a></h4>
   </div>
